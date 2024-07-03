@@ -4,11 +4,11 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone 
+git clone https://github.com/tripleten-com/movie_review.git
 ```
 
 ```
-cd what_to_watch
+cd movie_review
 ```
 
 Create and activate a virtual environment:
